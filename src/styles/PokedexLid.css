@@ -1,0 +1,9 @@
+.pokedex-lid {
+  width: 650px;
+  height: 380px;
+  border-radius: 60px;
+  background-color: #c85152;
+  position: relative;
+  bottom: -80px;
+  left: 75px;
+}
