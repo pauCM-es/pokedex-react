@@ -11,7 +11,7 @@ const PokedexBody = () => {
         <div className='pokedex-body__screen'>
           <Screen/>
         </div>
-      </section>
+    </section>
   )
 }
 

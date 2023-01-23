@@ -3,6 +3,5 @@
   -webkit-clip-path: polygon(5% 0, 95% 0, 100% 7%, 100% 93%, 95% 100%, 5% 100%, 0% 93%, 0% 7%);
           clip-path: polygon(5% 0, 95% 0, 100% 7%, 100% 93%, 95% 100%, 5% 100%, 0% 93%, 0% 7%);
   width: calc(100% - 15px);
-  height: 350px;
-  margin-bottom: 50px;
+  aspect-ratio: 2/1.2;
 }
